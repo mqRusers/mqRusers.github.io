@@ -1,3 +1,5 @@
-# Department Blog
+# Macquarie R Users group page
 
-Working up of the MQ Ancient History blog.
+This is the official website of the Macquarie University R Users group. 
+You can go to this page to find important links, contact us, or see updates on our upcoming workshops and help sessions. 
+
